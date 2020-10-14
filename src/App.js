@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Yo. Netlify is awesome. Go Eagles.</h1>
+      <h1>Yo.</h1>
     </div>
   );
 }
